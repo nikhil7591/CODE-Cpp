@@ -2,7 +2,7 @@
 #include<iostream>
 using namespace std;
 
-// Friend function
+// Friend function :
 // -> non-member function which can access private member of the class.
 
 class A{
